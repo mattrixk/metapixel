@@ -1,0 +1,43 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../metapixel.xml</include>
+
+	<view name="system, basic, detailed">
+
+		<image name="background" extra="true">
+			<color>ff5454</color>
+		</image>
+
+		<image name="logo">
+			<path>./logo.png</path>
+		</image>
+
+		<image name="console" extra="true">
+			<path>./console.png</path>
+		</image>
+
+	</view>
+
+	<view name="system">
+
+		<text name="system_description" extra="true">
+			<text>The Nintendo Switch is the seventh major home video game console developed by Nintendo. Known in development as the NX, it was unveiled in October 2016, and was released worldwide on March 3, 2017. Nintendo considered the Switch a "hybrid" console. It is designed primarily as a home console, with the main unit inserted onto a docking station to connect to a television. Alternatively, it can be removed from the dock and used similarly to a tablet computer through its LCD touchscreen, or placed in a standalone tabletop mode playable by several people.</text>
+		</text>
+
+		<image name="screenshot_left" extra="true">
+			<path>./screenshot1.jpg</path>
+		</image>
+		<image name="screenshot_right" extra="true">
+			<path>./screenshot2.jpg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+
+		<textlist name="gamelist">
+			<selectorColor>ff2323</selectorColor>
+		</textlist>
+
+	</view>
+	
+</theme>
