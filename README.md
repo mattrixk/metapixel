@@ -1,3 +1,7 @@
+# This fork
+The reason for this fork is to have a new pc-mr module, meaning; PC Master Race.
+
+
 # MetaPixel
 Theme for Emulationstation and RetroPie
 
