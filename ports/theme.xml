@@ -21,7 +21,7 @@
 	<view name="system">
 
 		<text name="system_description" extra="true">
-			<text>PC Games ported into RetroPie</text>
+			<text>PC games, also known as computer games or personal computer games, are video games played on a personal computer rather than a dedicated video game console or arcade machine.</text>
 		</text>
 
 		<image name="screenshot_left" extra="true">
