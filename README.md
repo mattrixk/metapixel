@@ -1,5 +1,6 @@
 # This fork
 The reason for this fork is to have a new pc-mr module, meaning; PC Master Race.
+Also, added 3DS.
 
 
 # MetaPixel
