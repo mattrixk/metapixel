@@ -1,3 +1,7 @@
+# This fork
+The reason for this fork is to have a new pc-mr module, meaning; PC Master Race.
+
+
 # MetaPixel
 Theme for Emulationstation and RetroPie
 
@@ -12,6 +16,9 @@ I liked the 'Pixel' theme the most out of all the themes available to EmulationS
 
 Images
 ------
+
+*PG Game (this fork) View*
+![Image](http://i.imgur.com/OieHGU7.png)
 
 *RetroPie Settings System View*
 ![Image](http://i.imgur.com/V3vHnVJ.png)
